@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c1691d-3423-413b-8947-bb242b28e013" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="88c1691d-3423-413b-8947-bb242b28e013" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +67,7 @@
       <updated>1600376067266</updated>
       <workItem from="1600376068351" duration="970000" />
       <workItem from="1600377089575" duration="1512000" />
-      <workItem from="1600381907553" duration="2720000" />
+      <workItem from="1600381907553" duration="3063000" />
     </task>
     <servers />
   </component>
@@ -94,5 +91,9 @@
       <screen x="0" y="23" width="3840" height="1001" />
     </state>
     <state x="1794" y="213" key="Vcs.Push.Dialog.v2/0.23.3840.1001@0.23.3840.1001" timestamp="1600376243672" />
+    <state x="1961" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1600384893826">
+      <screen x="0" y="23" width="3840" height="1001" />
+    </state>
+    <state x="1961" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.3840.1001@0.23.3840.1001" timestamp="1600384893826" />
   </component>
 </project>
